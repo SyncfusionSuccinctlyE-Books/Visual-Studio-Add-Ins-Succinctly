@@ -2,8 +2,7 @@
 
 This is the companion repo for [*Visual Studio Add-Ins Succinctly*](https://www.syncfusion.com/succinctly-free-ebooks/visualstudio) by Joseph D. Booth. Published by Syncfusion.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Visual-Studio-Add-Ins-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/succinctly-free-ebooks/visualstudio)
-
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Visual-Studio-Add-Ins-Succinctly/blob/main/cover.png)](https://www.syncfusion.com/succinctly-free-ebooks/visualstudio)
 
 To deploy the add-ins to Visual Studio, follow these steps:
 1. Build the project.
